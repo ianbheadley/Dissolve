@@ -1,6 +1,6 @@
 # Dissolve — Ephemeral Writing App
 
-![Dissolve](Dissolve.gif)
+<img src="Dissolve.gif" width="50%" alt="Dissolve">
 
 A meditative writing surface for macOS. Type, and your words crumble into a
 GPU-simulated granular material — falling, piling, settling into structural

@@ -32,13 +32,6 @@ open Dissolve.xcodeproj
 Then build/run with ⌘R. The `Dissolve.xcodeproj` directory is regenerated
 from `project.yml` and is intentionally not checked in.
 
-## Tech
-
-- Swift, SwiftUI, AppKit, Metal, simd.
-- Custom GPU PBD solver (4 substeps, Jacobi position correction with
-  Coulomb friction, spatial-hash grid).
-- macOS 14+, Apple silicon recommended.
-
 ## License
 
 Personal project. Use at your own discretion.
